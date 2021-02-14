@@ -1,6 +1,6 @@
 # QRCodeGenerator
 Windows application to generate QR codes (intended for URLs)
-1. Download QRCodeGenerator.zip file
+1. Download QRCodeGenerator.zip file here: https://github.com/mcnods/QRCodeGenerator/raw/main/QRCodeGenerator.zip
 2. Extract it on your Windows workstation
 3. Run the Setup.exe file to get the QR Code Generator to run.
 
