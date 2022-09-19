@@ -19,7 +19,7 @@ General User Notes:
 Technical Notes:
 1. I coded this in C#/XAML.
 2. I used Visual Studio 2019 on a Windows 10 workstation.
-3. It is installed per Windows User (so if this is a computer you log into that other people *also* log into, you will each need to install it).
+3. This is a ClickOnce application and it is installed per Windows User (so if this is a computer you log into that other people *also* log into, you will each need to install it). https://en.wikipedia.org/wiki/ClickOnce
 4. I used Zxing to do the actual QR Code generation: https://github.com/zxing/zxing
 5. I'm an admittedly poor programmer, so don't flame me.
 6. If you have any technical advice for someone who does not enjoy programming in general, be kind (and please rewind).
